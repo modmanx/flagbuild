@@ -1,0 +1,1 @@
+for win os download ImageMagick-x.x.x-xx-XXX-x86-windows.zip from http://www.imagemagick.org/download/binaries/ and extract to lib/imagemagick/win/

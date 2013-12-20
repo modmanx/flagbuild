@@ -1,0 +1,3 @@
+lib/imagemagick/*
+build/*
+config.php
